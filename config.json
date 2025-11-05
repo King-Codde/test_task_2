@@ -1,0 +1,7 @@
+{
+  "ip": "127.0.0.1",
+  "port": 8554,
+  "login": "admin",
+  "rtsp_uri_1": "rtsp://127.0.0.1:8554/mystream/1",
+  "rtsp_uri_2": "rtsp://127.0.0.1:8554/mystream/2"
+}
